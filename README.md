@@ -1,4 +1,4 @@
-# Heart-Failure-Prediction
+# Heart-Failure-Classification
 
 Repositori ini berisi kode sumber untuk proyek machine learning yang bertujuan memprediksi penyakit gagal jantung. Proyek ini mencakup semua tahapan, mulai dari analisis data eksplorasi, preprocessing, pelatihan model, hingga deployment menggunakan Streamlit.
 
