@@ -71,7 +71,7 @@ Ke-12 fitur input dikelompokkan pada antarmuka aplikasi sebagai berikut:
 
 ## 🖥️ Application Preview
 
-![Heart Failure Prediction App](assets/predict-heart.png)
+![Heart Failure Prediction App](assets/Predict-Heart.png)
 
 Pengguna memasukkan 12 parameter klinis pada formulir, menekan **Click Here to Predict**, dan aplikasi langsung menampilkan status prediksi:
 - 🟢 **Risiko Rendah (`0`):** Ditampilkan dengan notifikasi hijau (`st.success`).
