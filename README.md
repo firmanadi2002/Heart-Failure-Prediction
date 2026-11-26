@@ -6,8 +6,8 @@
 
 Sistem klasifikasi *machine learning* *end-to-end* untuk memprediksi risiko kejadian gagal jantung (`DEATH_EVENT`) pada pasien berdasarkan 12 fitur rekam medis. Proyek ini mencakup seluruh alur pengembangan mulai dari eksplorasi data klinis, pemodelan berbasis **Random Forest**, hingga *deployment* aplikasi web interaktif menggunakan **Streamlit**.
 
-🔗 **Live Demo:** `[Masukkan Link Streamlit App Kamu di Sini]`  
-🌐 **Portfolio Case Study:** `[Masukkan Link Halaman Web Portofolio Kamu di Sini]`
+🔗 **Live Demo:** `https://heart-failure-prediction-portfolio.streamlit.app/`  
+🌐 **Portfolio Case Study:** `https://website-gamma-blue-30.vercel.app/`
 
 ---
 
