@@ -61,16 +61,11 @@ Ke-12 fitur input dikelompokkan pada antarmuka aplikasi sebagai berikut:
 
 | Metrik Evaluasi | Skor |
 | :--- | :---: |
-| **Accuracy** | `[XX.XX%]` |
-| **Precision** | `[0.XX]` |
-| **Recall** | `[0.XX]` |
-| **F1-Score** | `[0.XX]` |
-| **ROC-AUC** | `[0.XX]` |
+| **Accuracy** | `[77%]` |
+| **Precision** | `[0.79]` |
+| **Recall** | `[0.77]` |
+| **F1-Score** | `[0.75]` |
 
-### Visualisasi Evaluasi
-*(Unggah gambar hasil evaluasi ke folder `assets/` lalu sesuaikan tautan di bawah ini)*
-- **Confusion Matrix:** `![Confusion Matrix](assets/confusion_matrix.png)`
-- **Feature Importance:** `![Feature Importance](assets/feature_importance.png)`
 
 ---
 
